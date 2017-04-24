@@ -15,6 +15,8 @@
 		CE1EB9611EAE14EE0054E070 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE1EB95F1EAE14EE0054E070 /* LaunchScreen.storyboard */; };
 		CE1EB96C1EAE14EE0054E070 /* PostTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1EB96B1EAE14EE0054E070 /* PostTestTests.m */; };
 		CE1EB9771EAE14EE0054E070 /* PostTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1EB9761EAE14EE0054E070 /* PostTestUITests.m */; };
+		CE1EB9861EAE1E0B0054E070 /* Test1.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1EB9851EAE1E0B0054E070 /* Test1.m */; };
+		CE1EB9891EAE1E2D0054E070 /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = CE1EB9881EAE1E2D0054E070 /* Test2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,10 @@
 		CE1EB9721EAE14EE0054E070 /* PostTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1EB9761EAE14EE0054E070 /* PostTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PostTestUITests.m; sourceTree = "<group>"; };
 		CE1EB9781EAE14EE0054E070 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE1EB9841EAE1E0B0054E070 /* Test1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
+		CE1EB9851EAE1E0B0054E070 /* Test1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
+		CE1EB9871EAE1E2D0054E070 /* Test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
+		CE1EB9881EAE1E2D0054E070 /* Test2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +111,10 @@
 				CE1EB9551EAE14EE0054E070 /* AppDelegate.m */,
 				CE1EB9571EAE14EE0054E070 /* ViewController.h */,
 				CE1EB9581EAE14EE0054E070 /* ViewController.m */,
+				CE1EB9841EAE1E0B0054E070 /* Test1.h */,
+				CE1EB9851EAE1E0B0054E070 /* Test1.m */,
+				CE1EB9871EAE1E2D0054E070 /* Test2.h */,
+				CE1EB9881EAE1E2D0054E070 /* Test2.m */,
 				CE1EB95A1EAE14EE0054E070 /* Main.storyboard */,
 				CE1EB95D1EAE14EE0054E070 /* Assets.xcassets */,
 				CE1EB95F1EAE14EE0054E070 /* LaunchScreen.storyboard */,
@@ -276,6 +286,8 @@
 				CE1EB9591EAE14EE0054E070 /* ViewController.m in Sources */,
 				CE1EB9561EAE14EE0054E070 /* AppDelegate.m in Sources */,
 				CE1EB9531EAE14EE0054E070 /* main.m in Sources */,
+				CE1EB9891EAE1E2D0054E070 /* Test2.m in Sources */,
+				CE1EB9861EAE1E0B0054E070 /* Test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
